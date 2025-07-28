@@ -27,7 +27,7 @@
 ## 📚 Featured Projects
 - **[Project VYNTRA](https://www.vyntra.space)** — I created Vyntra to make coding fun, practical, community-driven, and empowering—helping others learn what I once struggled with.
 
-- **[Project ENZO](https://github.com/Kapiln16/enzo)** — Building Open Source AI model that understand and analyse the complexity of thing and answer back in the most easy and help way.
+- **[Project ENZO](https://github.com/Kapiln16/enzo)** — Building an Open Source AI model that understand and analyse the complexity of thing and answer back in the most easy and help way.
 
 ---
 
